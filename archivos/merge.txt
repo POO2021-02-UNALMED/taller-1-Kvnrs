@@ -1,3 +1,6 @@
 Kevin Danilo Arias Buitrago
 19
 Espero aprender mucho para usar el conocimiento es mi vida laboral
+Ahora la carpeta archivos si me dejó hacerle commit, supongo que es porque ya no está vacía.
+
+Es importante tener cuidado ya que pueden haber archivos similares en el local y en el main que puedan generar un conflicto, esto también ocasionará que pueda haber inconvenientes con los cambios realizados a ambos archivos
